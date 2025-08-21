@@ -6,23 +6,23 @@ Each project is built with **HTML5** and **CSS3**, focusing on responsive layout
 ## 📂 Projects
 
 ### 1. Tribute Page
-- 🔗 [Live Demo](https://hinatahyuga1194.github.io/-responsive-web-design-projects-/tribute-page/)
+- 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/tribute-page/)
 - 📁 [Source Code](./tribute-page/)
 
 ### 2. Survey Form
-- 🔗 [Live Demo](https://hinatahyuga1194.github.io/-responsive-web-design-projects-/survey-form/)
+- 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/survey-form/)
 - 📁 [Source Code](./survey-form/)
 
 ### 3. Product Landing Page
-- 🔗 [Live Demo](https://hinatahyuga1194.github.io/-responsive-web-design-projects-/product-landing-page/)
+- 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/product-landing-page/)
 - 📁 [Source Code](./product-landing-page/)
 
 ### 4. Technical Documentation Page
-- 🔗 [Live Demo](https://hinatahyuga1194.github.io/-responsive-web-design-projects-/technical-documentation-page/)
+- 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/technical-documentation-page/)
 - 📁 [Source Code](./technical-documentation-page/)
 
 ### 5. Personal Portfolio
-- 🔗 [Live Demo](https://hinatahyuga1194.github.io/-responsive-web-design-projects-/personal-portfolio/)
+- 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/personal-portfolio/)
 - 📁 [Source Code](./personal-portfolio/)
 
 ---
@@ -30,4 +30,4 @@ Each project is built with **HTML5** and **CSS3**, focusing on responsive layout
 ## 🚀 How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone https://github.com/hinatahyuga1194/-responsive-web-design-projects-.git
+   git clone https://github.com/varshaajio/-responsive-web-design-projects-.git

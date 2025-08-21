@@ -2,8 +2,7 @@ body {
   font-family: Arial, sans-serif;
   text-align: center;
   margin: 2rem;
-  background-color: #f9f9f9;
-  color: #333;
+  background:linear-gradient(pink,hotpink);
 }
 
 #title {

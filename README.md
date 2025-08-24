@@ -25,8 +25,3 @@ Each project is built with **HTML5** and **CSS3**, focusing on responsive layout
 - 🔗 [Live Demo](https://varshaajio.github.io/-responsive-web-design-projects-/technical-documentation-page/)
 - 📁 [Source Code](./technical-documentation-page/)
 ---
-
-## 🚀 How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/varshaajio/-responsive-web-design-projects-.git
